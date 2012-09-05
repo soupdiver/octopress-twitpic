@@ -1,4 +1,4 @@
-# Twitpic plugin for Jekyll
+# Twitpic plugin for Octopress/Jekyll
 
 Helps you embed stuff from [twitpic.com](http://twitpic.com) more easily to your Octopress.
 
